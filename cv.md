@@ -1,5 +1,7 @@
 # Alina Valko
 
+![My photo](/Users/user/Downloads/my-photo.jpeg)
+
 ## Contacts
 * alinavalkoo@gmail.com
 * t.me/alien_grace
